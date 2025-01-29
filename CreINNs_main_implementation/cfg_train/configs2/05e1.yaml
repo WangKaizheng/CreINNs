@@ -1,0 +1,3 @@
+Seed: 1208
+BatchSize: 128
+LearningRate: 0.001
